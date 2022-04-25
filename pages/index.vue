@@ -6,7 +6,7 @@
           <Counter></Counter>
         </div>
         <div class="col-sm-4 text-center align-self-center h3">
-          <p>Mouse: x: {{ x }} y: {{ y }}</p>
+          <p>Mouse:: x: {{ x }} y: {{ y }}</p>
         </div>
         <div class="col-sm-4 text-center align-self-center h3">
           <p>
